@@ -1,4 +1,4 @@
-# Introdução Clojure
+# Configurações
 
 ### Configuração Leiningen Windows
 
@@ -16,4 +16,7 @@
 4. No CMD do windows dentro da pasta escolhida executar o comando *lein self-install*.
 5. Usar o comando *lein repl* para executar o REPL do clojure.
 6. Usar ctrl + D para finalizar o REPL.
+
+# Comandos
+
        
