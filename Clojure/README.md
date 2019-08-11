@@ -3,7 +3,7 @@
 ### Configuração Leiningen Windows
 
 1. Instalação da versão mais atual do [JAVA-JDK](https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html).
-2. Baixar o arquivo [lein].DAT e inclusão em um pasta de sua preferência.
+2. Baixar o arquivo [lein](leiningen.org/).DAT e inclusão em um pasta de sua preferência.
 3. Definição de uma pasta no windows no $PATH.
      
        Configuração via ambiente gráfico:
