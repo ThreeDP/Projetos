@@ -67,5 +67,6 @@ Operadores:
 
 ### Python 2 dicas
 
-> python 2 não gera automaticamente numeros floats em divições sendo necessário declarar os
-numeros com floats antes da divisão.
+> python 2 não gera automaticamente numeros floats em divições sendo necessário declarar os numeros com floats antes da divisão.
+
+
