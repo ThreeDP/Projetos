@@ -12,7 +12,7 @@
 
 *Gerentes*
 
-> gerenciar equipes de vendas, visualizar clientes de toda a equipe, gereciar processos de vendas junto aos corretores, cadastrar clientes e efetivar vendas.
+> gerenciar equipes de vendas, visualizar clientes de toda a equipe, gereciar processos de vendas junto aos corretores, cadastrar clientes, cadastrar corretores e efetivar vendas.
 
 ### 2. Programadores
 
@@ -49,5 +49,8 @@
 
 # Requisitos funcionais
 
-### CADASTRO
+### 1. CADASTRO
 ***
+
+*Permitir que gerente cadastre corretores*
+> Data de criação
