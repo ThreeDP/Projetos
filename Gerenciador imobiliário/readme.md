@@ -4,7 +4,7 @@
 
 *Corretores*
 
-> Responsaveis por realizar o atendimento dos clientes via chat, anexar documentos dos clientes, posicionar o cliente em sua etapa de compra, atualizar dados dos clientes, visualizar seus proprios clientes e notificar interesse de comprar para o gerente.
+> Responsaveis por realizar o atendimento dos clientes via chat, anexar documentos dos clientes, posicionar o cliente em sua etapa de compra, atualizar dados dos clientes, cadastrar clientes, visualizar seus proprios clientes e notificar interesse de comprar para o gerente.
     
 *Clientes*
 
@@ -12,7 +12,7 @@
 
 *Gerentes*
 
-> gerenciar equipes de vendas, visualizar clientes de toda a equipe, gereciar processos de vendas junto aos corretores e efetivar vendas.
+> gerenciar equipes de vendas, visualizar clientes de toda a equipe, gereciar processos de vendas junto aos corretores, cadastrar clientes e efetivar vendas.
 
 ### 2. Programadores
 
@@ -46,4 +46,8 @@
 
 > Imobiliárias interessadas em software para auxilio de vendas focado para o mercado baixa renda.
 
-    
+
+# Requisitos funcionais
+
+**Cadastro**
+***
