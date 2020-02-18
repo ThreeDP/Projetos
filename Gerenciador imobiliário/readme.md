@@ -53,4 +53,11 @@
 ***
 
 *Permitir que gerente cadastre corretores*
-> Data de criação
+> Módulo.......................: 
+Data de criação................: 
+Data de atualização............:
+Versão.........................:
+Descrição......................:
+Autor..........................:
+Autor..........................:
+Prioridade.....................:
