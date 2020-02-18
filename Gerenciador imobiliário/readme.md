@@ -49,16 +49,42 @@
 
 # Requisitos funcionais
 
-### 1. CADASTRO
+### 1. CADASTRO (Módulo)
 ***
 
 *Permitir que gerente cadastre corretores   
     
-    Módulo.........................: 
-    Data de criação................: 
-    Data de atualização............:
-    Versão.........................:
-    Descrição......................:
-    Autor..........................:
-    Autor..........................:
-    Prioridade.....................:
+    Identificador..................: RF201
+    Data de criação................: 18/02/2020
+    Data de atualização............: 18/02/2020
+    Versão.........................: 00.00.001v
+    Descrição......................: Permite que usuários de classe gerente cadastre usuários de classe corretor.
+    Autor..........................: Davy Paulino
+    Autor..........................: 
+    Prioridade.....................: Alta
+    
+*Permitir que gerente cadastre corretores   
+    
+    Identificador..................: RF
+    Data de criação................: 18/02/2020
+    Data de atualização............: 18/02/2020
+    Versão.........................: 00.00.001v
+    Descrição......................: 
+    Autor..........................: 
+    Autor..........................: 
+    Prioridade.....................: 
+
+
+
+
+# Modelo
+*Nome do requisito   
+    
+    Identificador..................: RF
+    Data de criação................: 18/02/2020
+    Data de atualização............: 18/02/2020
+    Versão.........................: 00.00.001v
+    Descrição......................: 
+    Autor..........................: 
+    Autor..........................: 
+    Prioridade.....................: 
