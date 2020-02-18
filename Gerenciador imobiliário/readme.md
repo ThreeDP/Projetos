@@ -58,21 +58,21 @@
     Data de criação................: 18/02/2020
     Data de atualização............: 18/02/2020
     Versão.........................: 00.00.001v
-    Descrição......................: Permite que usuários de classe gerente cadastre usuários de classe corretor.
+    Descrição......................: Para o cadastro de corretores no sistema se faz necessário uma tela onde seja possivel preencher os seguintes campos: (Nome do corretor, Sobrenome, Telefone, Celular, Email, 
     Autor..........................: Davy Paulino
     Autor..........................: 
     Prioridade.....................: Alta
     
-*Permitir que gerente cadastre corretores   
+*Permitir que Corretores cadastre clientes   
     
-    Identificador..................: RF
+    Identificador..................: RF101
     Data de criação................: 18/02/2020
     Data de atualização............: 18/02/2020
     Versão.........................: 00.00.001v
     Descrição......................: 
+    Autor..........................: Davy Paulino
     Autor..........................: 
-    Autor..........................: 
-    Prioridade.....................: 
+    Prioridade.....................: Alta
 
 
 
@@ -85,6 +85,6 @@
     Data de atualização............: 18/02/2020
     Versão.........................: 00.00.001v
     Descrição......................: 
-    Autor..........................: 
+    Autor..........................: Davy Paulino
     Autor..........................: 
     Prioridade.....................: 
