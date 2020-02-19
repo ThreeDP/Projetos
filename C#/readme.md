@@ -5,6 +5,12 @@
 *Médico*
 > Realizar atendimentos
 
+*Atendente*
+> 
+
+*Paciente*
+>
+
 ### 2. Programadores
 
 *Back-end*
@@ -14,19 +20,15 @@
 ### 3. Fornecedores
 
 *Microsoft*
-
 > 
 
 ### 4. Gerente de projeto
-
 > 
 
 ### 5. Analista
-
 > 
 
 ### 6. Patrocinador
-
 > 
 
 # Modelo
