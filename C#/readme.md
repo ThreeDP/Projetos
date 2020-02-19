@@ -2,9 +2,33 @@
 
 ### 1. Usuários
 
-*Corretores*
+*Médico*
 
-> Responsaveis por realizar o atendimento dos clientes via chat, anexar documentos dos clientes, posicionar o cliente em sua etapa de compra, atualizar dados dos clientes, cadastrar clientes, visualizar seus proprios clientes e notificar interesse de comprar para o gerente.
+> 
+
+### 2. Programadores
+
+*Back-end*
+
+> 
+
+### 3. Fornecedores
+
+*Microsoft*
+
+> 
+
+### 4. Gerente de projeto
+
+> 
+
+### 5. Analista
+
+> 
+
+### 6. Patrocinador
+
+> 
 
 # Modelo
 *Nome do requisito*  
