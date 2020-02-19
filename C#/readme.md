@@ -3,8 +3,7 @@
 ### 1. Usuários
 
 *Médico*
-
-> 
+> Realizar atendimentos
 
 ### 2. Programadores
 
