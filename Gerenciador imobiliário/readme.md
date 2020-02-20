@@ -3,16 +3,16 @@
 ### 1. Usuários
 
 *Corretores*
-
 > Responsaveis por realizar o atendimento dos clientes via chat, anexar documentos dos clientes, posicionar o cliente em sua etapa de compra, atualizar dados dos clientes, cadastrar clientes, visualizar seus proprios clientes e notificar interesse de comprar para o gerente.
     
 *Clientes*
-
 > Realizar cadastro de usuário, inserir informações pessoais, atualizar informações pessoais, receber atualizações do programa minha casa minhca vida, receber notificações de empreendimentos e visualizar seu processo na pipeline de compra.
 
 *Gerentes*
-
 > gerenciar equipes de vendas, visualizar clientes de toda a equipe, gereciar processos de vendas junto aos corretores, cadastrar clientes, cadastrar corretores e efetivar vendas.
+
+*Diretor(es)*
+> Gerenciar todos os gerentes atribuidos, visualizar pipeline de vendas, visualizar relatórios de vendas, acompanhar desenpenho de equipes, acessar perfil de dos gerentes, corretores e clientes em sua hierarquia e 
 
 ### 2. Programadores
 
@@ -74,7 +74,16 @@
     Autor..........................: 
     Prioridade.....................: Alta
 
-
+*Nome do requisito   
+    
+    Identificador..................: RF
+    Data de criação................: 18/02/2020
+    Data de atualização............: 18/02/2020
+    Versão.........................: 00.00.001v
+    Descrição......................: 
+    Autor..........................: Davy Paulino
+    Autor..........................: 
+    Prioridade.....................: 
 
 
 # Modelo
