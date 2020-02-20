@@ -56,9 +56,9 @@
     
     Identificador..................: RF201
     Data de criação................: 18/02/2020
-    Data de atualização............: 18/02/2020
-    Versão.........................: 00.00.001v
-    Descrição......................: Para o cadastro de corretores no sistema se faz necessário uma tela onde seja possivel preencher os seguintes campos: (Nome do corretor, Sobrenome, Telefone, Celular, Email, 
+    Data de atualização............: 20/02/2020
+    Versão.........................: 00.00.002v
+    Descrição......................: Para o cadastro de corretores no sistema se faz necessário uma tela onde seja possivel     preencher os seguintes campos: (Nome do corretor, Sobrenome, Telefone, Celular, Email, CRESCI, Endereço completo, CPF, RG, 
     Autor..........................: Davy Paulino
     Autor..........................: 
     Prioridade.....................: Alta
@@ -66,10 +66,10 @@
 *Permitir que Corretores cadastre clientes   
     
     Identificador..................: RF101
-    Data de criação................: 18/02/2020
-    Data de atualização............: 18/02/2020
+    Data de criação................: 20/02/2020
+    Data de atualização............: 20/02/2020
     Versão.........................: 00.00.001v
-    Descrição......................: 
+    Descrição......................: Ao cadastrar um cliente o mesmo já é vinculado ao corretor que efetivou o cadastro e ao gerente ao qual o superior ao corretor citado, antes desse processo ocorrer devesse verificar que o cliente que está sendo cadastrado já não está cadastrado com outro corretor ou gerente, Na tela de cadastro de clientes os campos necessários serão(Nome Completo*, data de nascimento*, sexo*, RG/RNE*, Órgão Expedidor*, CPF*, Naturalidade, Profissão, Renda Bruta*, estado civil, Nome da Mãe, Nome do Pai, Telefone*, Email*, possui filhos*, Celular*, Endereço* nº, Bairro*, CEP*, Cidade*, Estado*, Endereço comercial, nome da empresa em que trabalha, quantidade de empregados, Valor FGTS*, Valor de Entrada*, Situação de trabalho*, Anos de registro CLT*, Completomento de renda*, Nome pessoa complemento de renda*, Grau de relacionamento com a pessoa*, Situação de trabalho da pessoa*, Faixa de renda da pessoa*, Anos de registro CLT da pessoa*, Valor FGTS da Pessoa* e Região de interesse da casa sendo entre esse todos os com ( * ) itens essenciais para o cadastro do cliente.
     Autor..........................: Davy Paulino
     Autor..........................: 
     Prioridade.....................: Alta
