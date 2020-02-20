@@ -14,6 +14,9 @@
 *Diretor(es)*
 > Gerenciar todos os gerentes atribuidos, visualizar pipeline de vendas, visualizar relatórios de vendas, acompanhar desenpenho de equipes, acessar perfil de dos gerentes, corretores e clientes em sua hierarquia e 
 
+*Administradores*
+> Gerenciar pagamento de corretores,
+
 ### 2. Programadores
 
 *Front-end*
