@@ -56,7 +56,8 @@
 ***
 
 *Permitir que gerente cadastre corretores   
-    
+
+|Permiti que gerente cadastre corretores|
 | Etiqueta | Descrição |
 |---|---|
 |**Idenfificador** | RF201 |
