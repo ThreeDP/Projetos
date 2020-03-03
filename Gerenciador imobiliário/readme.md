@@ -57,6 +57,15 @@
 
 *Permitir que gerente cadastre corretores   
     
+| Etiqueta | Descrição |
+|---|---|
+| `Idenfificador` | RF201 |
+| `Data de criação` | 18/02/2020 |
+| `Data de Atualização` | 20/02/2020 |
+| `Versão` | 00.00.002v |
+| `Descriação` | Para o cadastro de corretores no sistema se faz necessário uma tela onde seja possivel     preencher os seguintes campos: (Nome do corretor, Sobrenome, Telefone, Celular, Email, CRESCI, Endereço completo, CPF, RG, |
+    
+    
     Identificador..................: RF201
     Data de criação................: 18/02/2020
     Data de atualização............: 20/02/2020
