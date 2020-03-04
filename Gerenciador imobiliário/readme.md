@@ -57,7 +57,7 @@
 
 *Permitir que gerente cadastre corretores   
 
-|Permiti que gerente cadastre corretores|
+
 | Etiqueta | Descrição |
 |---|---|
 |**Idenfificador** | RF201 |
@@ -113,3 +113,14 @@
     Autor..........................: Davy Paulino
     Autor..........................: 
     Prioridade.....................: 
+
+| Etiqueta | Descrição |
+|---|---|
+|**Idenfificador** | |
+|**Data de criação** | |
+|**Data de Atualização** | |
+|**Versão** | |
+|**Descriação** | |
+|**Autor** | |
+|**Autor** | |
+|**Prioridade** | |
