@@ -11,3 +11,8 @@
 
 # Python
 1. [Algoritmo de Mersenne Twister](null)
+
+
+| Requisito de usuário | Descrição | Ator Principal |
+| ---------------------- | ----------- | ------------------ |
+| Cadastrar Funcionário | Necessario para inserir novos atores ao sistema dando suas devidas permissões de: acesso, prescrição de medicamentos, diagnosticos, controle de agenda e acesso a impressão e visualização de relatórios. | Gerente |
